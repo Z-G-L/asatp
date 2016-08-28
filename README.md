@@ -1,2 +1,2 @@
-# asatp
-Alternative Splicing Analysis Tool Package (ASATP)
+# Alternative Splicing Analysis Tool Package (ASATP)
+
