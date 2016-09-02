@@ -2,7 +2,7 @@
 
 # Alternative Splicing Analysis Tool Package (ASATP)
 
-Alternative splicing analysis tool package (ASATP), including a series of toolkits to analyze alternative splicing events, which could be used to 
+Alternative splicing analysis tool package (ASATP) includes a series of toolkits to analyze alternative splicing events, which could be used to 
  	detect and visualized alternative splicing events, 
  	check ORF changes, 
  	assess regulations of alternative splicing and 
