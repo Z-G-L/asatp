@@ -15,7 +15,7 @@ Check AS event in CDS region.
 
 =head2 AUTHOR
 
-Zhigang Li	lzg0063(at)126.com	 2015-10-29
+Zhigang Li	lzg0063(at)126.com	 2013-10-29
 
 =cut
 

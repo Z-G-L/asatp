@@ -26,7 +26,7 @@ Run Alternative splicing Analysis Tool Package.
 
 =head2 AUTHOR
 
-Zhigang Li	lzg0063(at)126.com	 2015-10-30
+Zhigang Li	lzg0063(at)126.com	 2014-10-30
 
 =cut
 

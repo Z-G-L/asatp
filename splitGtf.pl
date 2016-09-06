@@ -10,7 +10,7 @@ perl splitGtf.pl <file.gtf> <output_prefix>
 
 =head2 AUTHOR
 
-Zhigang Li	lzg0063(at)126.com	 2015-11-23
+Zhigang Li	lzg0063(at)126.com	 2014-11-23
 
 =cut
 

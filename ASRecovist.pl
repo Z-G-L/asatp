@@ -16,7 +16,7 @@ Alternative splicing recognition and visualization tool .
 
 =head2 AUTHOR
 
-Zhigang Li	lzg0063(at)126.com	 2014-3-4
+Zhigang Li	lzg0063(at)126.com	 2013-3-4
 
 =cut
 

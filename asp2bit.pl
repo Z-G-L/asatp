@@ -17,7 +17,7 @@ perl asp2bit.pl --asp aspCode --output <output_fold> [--graph no] [--graphFormat
 
 =head2 AUTHOR
 
-Zhigang Li	lzg0063(at)126.com	 2015-10-16
+Zhigang Li	lzg0063(at)126.com	 2014-10-16
 
 =cut
 
