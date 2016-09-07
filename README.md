@@ -52,7 +52,7 @@ ASATP works under Linux. To use ASATP, you need install Perl (>5.10). Some Perl 
 You can use CPAN command to install modules needed. For example: 
 
 
-	perl -MCPAN -e 'install HTML::Template' 
+	perl -MCPAN -e 'install Statistics::R' 
 
 	
 To check whether ASATP work well, you can run commands like:
