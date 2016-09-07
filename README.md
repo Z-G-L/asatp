@@ -7,7 +7,6 @@ Alternative splicing analysis tool package (ASATP) includes a series of toolkits
  	check ORF changes, 
  	assess regulations of alternative splicing and 
  	do statistical analysis. 
-The users could either access this software from our webserver, or download it from GitHub.
 
 ## Tools in ASATP
 - ASRecovist
@@ -20,7 +19,7 @@ Alternative splicing quantity comparison between samples, which was used to dete
 
 - ASAffectORF
 
-Check AS event in CDS region, to identify the effect of alternative splicing event for ORFs.
+Check AS event in CDS region, to identify the effect of alternative splicing events for ORFs.
 
 - runASATP
 
@@ -67,7 +66,7 @@ To check whether ASATP work well, you can run commands like:
 
 ## How to use?
 
-Detail see Full_documentation.pdf in document fold.
+See "Full_documentation.pdf" in document folder.
 
 
 
