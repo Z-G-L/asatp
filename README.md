@@ -7,6 +7,7 @@ Alternative splicing analysis tool package (ASATP) includes a series of toolkits
  	check ORF changes, 
  	assess regulations of alternative splicing and 
  	do statistical analysis. 
+You can process data in ASATP webserver ( http://systbio.cau.edu.cn/asatp ), or install ASATP into your local server.  
 
 ## Tools in ASATP
 - ASRecovist
