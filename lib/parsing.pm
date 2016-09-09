@@ -466,7 +466,7 @@ sub gtfFeature {
             ( $attName, $attValue ) = split /=/, $att;
         }
         else {
-            &logError( "Error line: \n\t$gffOneLine\nnot 9 columns\nExit 1", __FILE__, __LINE__ );
+            &logError( "Error line: \n\t$gffOneLine\n not gff2, gtf or gff3 format\nExit 1", __FILE__, __LINE__ );
         }
 
         # set attributes
